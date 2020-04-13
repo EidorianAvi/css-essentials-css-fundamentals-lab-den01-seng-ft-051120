@@ -10,7 +10,7 @@ header {
 
 img { 
   display:block;
-  margin:center;
+  margin:0;
 } 
 
 figure {
